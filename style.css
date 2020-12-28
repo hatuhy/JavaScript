@@ -1,0 +1,14 @@
+body{
+    background: linear-gradient(to top left, #ff66ff 0%, #99ff33 100%);
+    height: 98%;
+    width: 98%;
+}
+#Hi{
+    text-align: center;
+    font-size: 180px;
+    font-style: oblique;
+    color:rgba(255, 93, 165, 0.4);
+    height: 900px;
+    width: 520px;
+    background-image: url(imgs/Beauty_Girl_Chinese_1.jpg);
+}
